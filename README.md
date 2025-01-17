@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+TypeScriptJavaScriptGitPHPPythonVS CodeXCodeHTML5ReactNextJsVueNuxtjsCSS3SassTailwindCSSBootstrapReduxViteWebpackNodeJSExpressGraphQLMongoDBNestJSMySQLPostgreSQLFirebaseSupabaseFigmaGoogle CloudWordpressLaravelArduinoDocker
+
+Socials
+
