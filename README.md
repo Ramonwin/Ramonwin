@@ -4,7 +4,7 @@
   My Name is Ramon
 </h1>
 <h3 align="left">
-  A passionate Full Stack Developer | Problem Solver | Tech Explorer | Lecturer
+  A passionate Full Stack Developer | Problem Solver | Tech Explorer
 </h3>
 <!-- <h3 align="left">
   Interested in AI, MES, ERP & e-commerce systems
