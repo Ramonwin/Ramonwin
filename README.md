@@ -6,9 +6,9 @@
 <h3 align="left">
   A passionate Full Stack Developer | Problem Solver | Tech Explorer | Lecturer
 </h3>
-<h3 align="left">
+<!-- <h3 align="left">
   Interested in AI, MES, ERP & e-commerce systems
-</h3>
+</h3> -->
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
