@@ -4,8 +4,11 @@
   My Name is Ramon
 </h1>
 <h3 align="left">
-  A passionate Fullstack Developer | Problem Solver | Tech Explorer | Lecturer | Interested in AI, MES, ERP & e-commerce systems
-</p>
+  A passionate Fullstack Developer | Problem Solver | Tech Explorer | Lecturer
+</h3>
+<h3 align="left">
+  Interested in AI, MES, ERP & e-commerce systems
+</h3>
 
 <div id="header" align="left">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
