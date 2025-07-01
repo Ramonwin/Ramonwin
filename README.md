@@ -4,7 +4,7 @@
   My Name is Ramon
 </h1>
 <h3 align="left">
-  A passionate Fullstack Developer | Problem Solver | Tech Explorer
+  A passionate Fullstack Developer | Problem Solver | Tech Explorer | Lecturer | Interested in AI, MES, ERP & e-commerce systems
 </p>
 
 <div id="header" align="left">
