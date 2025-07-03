@@ -101,7 +101,7 @@
 ---
 -->
 
-### :hammer_and_wrench: Technologies and Tools :
+### :hammer_and_wrench: Technologies, Languanges and Tools :
 <div>
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/></a>&nbsp;
   <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/></a>&nbsp;
