@@ -14,6 +14,16 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<!--
+I love being able to use the best of technology to help people's lives.
+<ul>
+<li>🌍 I'm based in Remote</li>
+<li>🧠 I'm always learning more about Web development & Mobile Development</li>
+<li>🤝 I'm open to collaborating on new projects ideas</li>
+<li>🎯 Goal: Deliver the best of technology to everyone</li>
+<li>⚡ Fun fact: I thrive on collaboration — always ready to help, mentor, or contribute where it counts.</li>
+  </ul>
+  -->
 ---
 
 <!--
